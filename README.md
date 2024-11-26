@@ -6,4 +6,5 @@ You can perform functional Testing which is to test the functionality of web app
 - navigating pages
 - verifying expected outcomes  
 This is an intsgram bot, that auto logs in, likes posts of followers, sends a 'I'm away' message when a message isnt replied with in 5 minutes.
+
 ![image](https://github.com/user-attachments/assets/30d99309-eb6c-42a8-b8a1-40f94db48625)
